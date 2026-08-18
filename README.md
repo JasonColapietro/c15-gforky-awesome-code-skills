@@ -18,7 +18,7 @@
 | [helloianneo/awesome-claude-code-skills](https://github.com/helloianneo/awesome-claude-code-skills) | Claude Code 最实用 Skills 精选合集（中文） | 168 |
 | [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) | 150+ Codex CLI 工具/技能/子代理/插件 | 221 |
 | [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) | Codex 插件和技能市场 | 295 |
-| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 面向 Claude Code 与 Codex 的 67 个 MIT 开源 Skills，覆盖多智能体编排、代码审查、AI 评测、产品、设计与增长工作流 | 166 |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 面向 Claude Code 与 Codex 的 MIT 开源 Skills 合集，覆盖多智能体编排、代码审查、AI 评测、产品、设计与增长工作流 | 166 |
 
 ---
 
